@@ -24,12 +24,12 @@ This project analyzes airline passenger data to identify key factors influencing
 ## 📊 Visualizations
 
 **Airline Class Comparison**  
-![Class Comparison](images/class-comparison.png)
+![Class Comparison](images/airline-class-comparison.png)
 
-**Recommendation Analysis (Stacked Bar Chart)**  
+**Recommendation Analysis**  
 ![Recommendation](images/recommendation.png)
 
-**Airline Performance Heatmap**  
+**Airline Performance**  
 ![Heatmap](images/heatmap.png)
 
 ---
