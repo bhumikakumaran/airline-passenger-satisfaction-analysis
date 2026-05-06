@@ -23,13 +23,13 @@ This project analyzes airline passenger data to identify key factors influencing
 
 ## 📊 Visualizations
 
-**Airline Class Comparison**  
+**1. Airline Class Comparison**  
 ![Class Comparison](images/airline-class-comparison.png)
 
-**Recommendation Analysis**  
+**2. Recommendation Analysis**  
 ![Recommendation](images/recommendation.png)
 
-**Airline Performance**  
+**3. Airline Performance**  
 ![Heatmap](images/heatmap.png)
 
 ---
